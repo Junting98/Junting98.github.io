@@ -9,7 +9,7 @@ abstract: 'We present InfoMotif, a new semi-supervised, motif- regularized, lear
 
 
 date: 2020-09-15
-venue: 'ICDM, 2020'
+venue: 'ICDM'
 
 paperurl: '../files/info-motif.pdf'
 
