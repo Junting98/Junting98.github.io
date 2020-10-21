@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="section color-2" id="pub-grid">
+  <div class="section-container">
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-pdf-link.html %}
 {% endfor %}
+
+</div>
+</div>
