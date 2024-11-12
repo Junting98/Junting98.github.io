@@ -17,7 +17,7 @@ I received both my B.S. and M.S. in Computer Science from [University of Illinoi
 
 I was also an Applied Scientist Intern at Entity Resolution (2022) and International Machine Learning (2024) team @[Amazon](https://www.amazon.com/).
  
-My broader research interests include recommender systems and graph neural networks, with a particular focus on the challenges of sparsity and trustworthiness of these models. Currently, I'm also exploring LLM-enhanced recommendation systems and causal representation learning for RecSys. 
+My broader research interests span recommender systems and graph neural networks, with a particular focus on trustworthiness, such as generalizability, and on addressing sparsity challenges like long-tail item recommendation. I am also currently working on integrating LLMs and causal representation learning into recommendation systems.
 
  <!-- My broader research interests include recommender systems and graph neural networks, with a particular focus on the challenges of **<u>sparsity</u>** in these systems, such as long-tail item recommendation. Currently, I'm also exploring LLM-enhanced recommendation systems and causal representation learning. . -->
 
