@@ -17,8 +17,6 @@ I enjoy doing [research](https://scholar.google.com/citations?user=YogdvtkAAAAJ&
 
 **Contact me via**:  
 📧 Mail: [jtwang.98[AT]gmail.com](mailto:jtwang.98@gmail.com) or [junting3[AT]illinois.edu](mailto:junting3@illinois.edu)
-
-test how long 
 <!-- <center><b>Site Analytics</b></center>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=s7da3uibCWrEACtenkU2Dnw2AuuAP4rk7LBtrM3J70k&co=2c3e50"></script> -->
 
