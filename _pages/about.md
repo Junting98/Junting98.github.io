@@ -22,6 +22,5 @@ My broader research interests include recommender systems and graph neural netwo
 
 **Contact me via**:  
 📧 Mail: [jtwang.98[AT]gmail.com](mailto:jtwang.98@gmail.com) or [junting3[AT]illinois.edu](mailto:junting3@illinois.edu)
-<!-- <center><b>Site Analytics</b></center>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=s7da3uibCWrEACtenkU2Dnw2AuuAP4rk7LBtrM3J70k&co=2c3e50"></script> -->
-
+<center><b>Site Analytics</b></center>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=686464&w=500&t=n&d=eGQPrFXYzbXG4nYZmuWR1O1GRH04Evw_AqG9f-N-GpY&co=fefefe&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
