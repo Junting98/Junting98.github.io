@@ -21,7 +21,7 @@ repository               : "Junting98/Junting98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://junting-wang.com/images.junting.png"
+  avatar           : "https://junting-wang.com/images/junting.png"
   name             : "Junting Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Student in Computer Science."
