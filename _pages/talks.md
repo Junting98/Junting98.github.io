@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Photos"
-permalink: /talks/
+permalink: /gallery/
 author_profile: true
 ---
