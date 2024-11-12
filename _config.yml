@@ -12,7 +12,7 @@ title                    : "Junting Wang (王君廷)"
 title_separator          : "-"
 name                     : &name "Junting Wang"
 description              : &description "personal description"
-url                      : https://Junting98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://Junting98.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Junting98/Junting98.github.io"
 
@@ -21,7 +21,7 @@ repository               : "Junting98/Junting98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://junting-wang.com/images/junting.png"
+  avatar           : "https://Junting98.github.io/images.junting.png"
   name             : "Junting Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Student in Computer Science."
