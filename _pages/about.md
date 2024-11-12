@@ -11,7 +11,6 @@ redirect_from:
 ![Guitar](https://img.shields.io/badge/Guitar-(2015--Now)-brightgreen?color=181717&labelColor=blue)
 ![Lifting](https://img.shields.io/badge/Lifting-(2016--Now)-brightgreen?color=181717&labelColor=blue)
 ![Photography](https://img.shields.io/badge/Photography-(2020--Now)-brightgreen?color=181717&labelColor=blue)
-![Lifting](https://img.shields.io/badge/Lifting-(2016--Now)-brightgreen?color=181717&labelColor=blue)
 
 I'm a third year Ph.D. student at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), working with [Prof. Hari Sundaram](https://sundaram.cs.illinois.edu/). 
 I received both my B.S. and M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2020 and 2022.
