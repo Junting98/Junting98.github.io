@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junting Wang (王君廷)"
+title                    : "Junting Wang - 王君廷"
 title_separator          : "-"
 name                     : &name "Junting Wang"
 description              : &description "personal description"

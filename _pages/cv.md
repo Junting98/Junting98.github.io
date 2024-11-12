@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,50 +26,13 @@ Education
 * B.S. in Applied Mathematics, University of Illinois, Urbana-Champaign, 2020
 
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Applied Scientist Intern - Amazon
+  * Designed a multi-modal item representation learning framework that incorporates item-item relationships and diverse content modalities to enhance substitute and complementary item recommendations.
+  * Demonstrated up to a 39.2% improvement over current methods across five real-world datasets, highlighting its effectiveness, particularly in cold-start and sparse data scenarios.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Applied Scientist Intern - Amazon
+  * Created a cross-domain representation learning framework for entity-based personalization, enabling a unified user representation across multiple catalog domains.
+  * Delivered over a 5% improvement compared to the existing system, validated through both internal and external datasets for recommendation applications.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
