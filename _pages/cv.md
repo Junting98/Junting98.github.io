@@ -12,7 +12,7 @@ redirect_from:
 <b style="font-size: 1.5em;">
     PDF:
     &nbsp;
-    [<a href="/files/Resume-Junting Wang.pdf">Résumé/CV</a>]
+    [<a href="/files/Resume-Junting Wang.pdf">Résumé</a>]
 </b>
 
 
