@@ -15,9 +15,9 @@ redirect_from:
 I'm a third year Ph.D. student at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), working with [Prof. Hari Sundaram](https://sundaram.cs.illinois.edu/). 
 I received both my B.S. and M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2020 and 2022.
 
-I was also an Applied Scientist Intern at Entity Resolution (2022) and International Machine Learning (2024) team @[Amazon](https://www.amazon.com/).
+I was also an Applied Scientist Intern at Entity Resolution (2022) and International Machine Learning (2024 & 2025) team @[Amazon](https://www.amazon.com/).
  
-My broader research interests span recommender systems and graph neural networks, with a particular focus on trustworthiness, such as generalizability, and on addressing sparsity challenges like long-tail item recommendation. I am also currently working on integrating LLMs and causal representation learning into recommendation systems.
+My broader research interests span recommender systems and graph neural networks, with a particular focus on trustworthiness, such as generalizability, and on addressing sparsity challenges like long-tail item recommendation. I am also currently working on integrating LLMs and causal representation learning into recommendation systems, as well as mitigating hallucinations in large language models using causal methods.
 
  <!-- My broader research interests include recommender systems and graph neural networks, with a particular focus on the challenges of **<u>sparsity</u>** in these systems, such as long-tail item recommendation. Currently, I'm also exploring LLM-enhanced recommendation systems and causal representation learning. . -->
 
