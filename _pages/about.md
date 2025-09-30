@@ -29,6 +29,9 @@ My broader research interests span recommender systems and graph neural networks
 <!-- <div style="height: 300px; overflow: auto; border: 1px solid #ccc; margin: 10px;"> -->
 <div style="height: 200px; overflow: auto ; margin: 10px;">
 <ul>
+  <li><strong style="font-family: Consolas;">[07/2025]</strong> <b style="color: rgb(231, 165, 65);">RecSys'25:</b> "LLM-RecG: LLM-Driven Cross-Domain Sequential Recommendation: A
+Framework for Zero-Shot Generalization". [<a href="https://dl.acm.org/doi/pdf/10.1145/3705328.3748077">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[05/2025]</strong> 🧑‍💻<b style="color: rgb(231, 165, 65);">Intern@Amazon:</b> Starting my Applied Scientist Internship!</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong> New website online.</li>
   <li><strong style="font-family: Consolas;">[07/2024]</strong> <b style="color: rgb(231, 165, 65);">RecSys'24:</b> "A Pre-trained Sequential Recommendation Framework: Popularity Dynamics for Zero-shot Transfer". [<a href="https://github.com/CrowdDynamicsLab/preprec">Code</a>/<a href="https://arxiv.org/pdf/2401.01497">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2024]</strong> 🧑‍💻<b style="color: rgb(231, 165, 65);">Intern@Amazon:</b> Starting my Applied Scientist Internship!</li>
